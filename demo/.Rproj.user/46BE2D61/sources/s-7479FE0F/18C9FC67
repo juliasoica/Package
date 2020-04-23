@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587645601340.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "18C9FC67",
+    "lastKnownWriteTime" : 1587646762,
+    "last_content_update" : 1587646762174,
+    "path" : "C:/Users/Utilisateur/OneDrive - unige.ch/UNIGE 2ème partie BA (3ème année)/Printemps 2020/Introduction to Data Science/R/Session 9/Session 9.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "14,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

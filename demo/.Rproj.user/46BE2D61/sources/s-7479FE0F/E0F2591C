@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587646286328.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "2712333041",
+    "id" : "E0F2591C",
+    "lastKnownWriteTime" : 1587646270,
+    "last_content_update" : 1587646270,
+    "path" : "~/GitHub/Package/demo/man/mc_int.Rd",
+    "project_path" : "man/mc_int.Rd",
+    "properties" : {
+    },
+    "read_only" : true,
+    "read_only_alternatives" : [
+        "R/MC integration.R"
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_doc"
+}
