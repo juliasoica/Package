@@ -74,14 +74,16 @@ mc_int = function(x_range, fun, B, seed = 1291){
 #' @title Plot for Monte-Carlo integration function
 #'
 #' @description Plot something
-#' @param A \code{list} of the class MCI
+#' @param x A \code{list} of the class MCI
 #' @author Stephane Guerrier
+#' @importFrom grDevices hcl
+#' @importFrom graphics abline grid lines plot polygon title
 #' @export
 #' @examples
 #' obj = mc_int(x_range = c(0,1), fun = "x^2", B = 10^5)
 #' plot(obj)
 
-plot.MCI = function(x, ...){
+plot.MCI = function(x){
   obj = x
   x_range = obj$x_range
   fun = obj$fun

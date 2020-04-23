@@ -4,10 +4,10 @@
 \alias{plot.MCI}
 \title{Plot for Monte-Carlo integration function}
 \usage{
-\method{plot}{MCI}(x, ...)
+\method{plot}{MCI}(x)
 }
 \arguments{
-\item{A}{\code{list} of the class MCI}
+\item{x}{A \code{list} of the class MCI}
 }
 \description{
 Plot something
