@@ -18,3 +18,6 @@ plot(obj)
 # create wesbite for the package
 install.packages("pkgdown")
 pkgdown::build_site()
+
+devtools::document()
+MC_gui()

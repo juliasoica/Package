@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587649687278.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "89078409",
+    "id" : "3301CE51",
+    "lastKnownWriteTime" : 1587649666,
+    "last_content_update" : 1587649666,
+    "path" : "~/GitHub/Package/demo/inst/MC_int/app.r",
+    "project_path" : "inst/MC_int/app.r",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
