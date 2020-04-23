@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587653122890.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "A16D2E72",
+    "lastKnownWriteTime" : 1587651765,
+    "last_content_update" : 1587651765,
+    "path" : "~/GitHub/Package/R/MC integration.R",
+    "project_path" : "R/MC integration.R",
+    "properties" : {
+        "cursorPosition" : "114,0",
+        "scrollLine" : "88"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
